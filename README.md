@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello there, I'm Gregorius Yuristama ! 👋
 
 <!--
 **gregoriusyuristama/gregoriusyuristama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Apple Developer Academy @BINUS
+- 🔭 I’m currently working and learning on Apple Developer Academy @BINUS
 - 🌱 I’m currently learning Swift, Python, Java, React, Flutter
 - 📫 How to reach me: hello@gregoriusyuristama.me
 - 😄 Pronouns: He/him
@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Copy-paste in your Readme.md file -->
+![Top Langs](https://github-readme-stats-mauve-sigma-59.vercel.app/api/top-langs/?username=gregoriusyuristama&layout=compact&bg_color=00000000&text_color=FFFFF)
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=102383943" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=102383943&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @gregoriusyuristama" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=102383943&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-mauve-sigma-59.vercel.app/api?username=gregoriusyuristama&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
