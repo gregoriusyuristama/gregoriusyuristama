@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working and learning on Apple Developer Academy @BINUS
-- 🌱 I’m currently learning Swift, Python, Java, React, Flutter
+- 🌱 I’m currently learning Swift, Python, Java, and Flutter
 - 📫 How to reach me: hello@gregoriusyuristama.me
 - 😄 Pronouns: He/him
 <!--
